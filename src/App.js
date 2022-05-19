@@ -15,7 +15,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <MainMenu></MainMenu>
+      <MainMenu />
     </div>
   );
 }
